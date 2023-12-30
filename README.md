@@ -1,6 +1,6 @@
 # Gym & Fitness Website
 
-A simple Learning Website created by using
+A simple Gym & FItness Website created by using
 - HTML
 - CSS
 
